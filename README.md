@@ -3,6 +3,8 @@ Call of Duty Shooter
 
 A literal Call of Duty shooter. Very primitive, and probably stupid but it was fun to make and helped wrap my head around some early things I learned in AS3.  
 
+I could revisit this and make proper use of classes, but I don't really see the point. 
+
 License
 ---
 
